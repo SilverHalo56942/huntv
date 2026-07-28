@@ -1,0 +1,293 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="LOGO_URL",M1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="LOGO_URL",M2 HD
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/m2_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="LOGO_URL",Duna TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/duna_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="LOGO_URL",M4 Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/m4_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="LOGO_URL",Duna World/M4 Sport+ HD
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="LOGO_URL",M5 HD
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-logo="LOGO_URL",RTL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="LOGO_URL",TV2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-logo="LOGO_URL",Hír TV HD
+#EXTVLCOPT:network-caching=1000
+https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-logo="LOGO_URL",ATV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="11" tvg-logo="LOGO_URL",Mozi+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+
+#EXTINF:-1 tvg-chno="12" tvg-logo="LOGO_URL",TV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-logo="LOGO_URL",Film+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+
+#EXTINF:-1 tvg-chno="14" tvg-logo="LOGO_URL",Viasat 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/viasat3/index.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-logo="LOGO_URL",Viasat 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/viasat6/index.m3u8
+
+#EXTINF:-1 tvg-chno="16" tvg-logo="LOGO_URL",Prime HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/prime/index.m3u8
+
+#EXTINF:-1 tvg-chno="17" tvg-logo="LOGO_URL",Story4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="18" tvg-logo="LOGO_URL",RTL Kettő HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-logo="LOGO_URL",Super TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-logo="LOGO_URL",RTL Három HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="LOGO_URL",Spektrum Home HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-logo="LOGO_URL",Muzsika TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-logo="LOGO_URL",Sláger TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-logo="LOGO_URL",Oxygen Music HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
+
+#EXTINF:-1 tvg-chno="25" tvg-logo="LOGO_URL",KroneHIT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-logo="LOGO_URL",Spíler1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/spiler1/index.m3u8
+
+#EXTINF:-1 tvg-chno="27" tvg-logo="LOGO_URL",Spíler2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/spiler2/index.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-logo="LOGO_URL",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-logo="LOGO_URL",Nicktoons SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="30" tvg-logo="LOGO_URL",Galaxy4
+#EXTVLCOPT:network-caching=1000
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="31" tvg-logo="LOGO_URL",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+
+#EXTINF:-1 tvg-chno="32" tvg-logo="LOGO_URL",Film4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/film4_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-logo="LOGO_URL",National Geographic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/ngc_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-logo="LOGO_URL",National Geographic Wild HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/ngw_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-logo="LOGO_URL",Spektrum HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-logo="LOGO_URL",TV2 Séf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="37" tvg-logo="LOGO_URL",Izaura TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/izaura/index.m3u8
+
+#EXTINF:-1 tvg-chno="38" tvg-logo="LOGO_URL",RTL Otthon HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="LOGO_URL",History HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/history_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="40" tvg-logo="LOGO_URL",Zenebutik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/zenebutik/index.m3u8
+
+#EXTINF:-1 tvg-chno="41" tvg-logo="LOGO_URL",FEM3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="42" tvg-logo="LOGO_URL",ATV Extra HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="43" tvg-logo="LOGO_URL",Dikh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/dikh/index.m3u8
+
+#EXTINF:-1 tvg-chno="44" tvg-logo="LOGO_URL",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+
+#EXTINF:-1 tvg-chno="45" tvg-logo="LOGO_URL",TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/tv2_kids/index.m3u8
+
+#EXTINF:-1 tvg-chno="46" tvg-logo="LOGO_URL",Kölyökklub HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-chno="47" tvg-logo="LOGO_URL",Jocky TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/jocky/index.m3u8
+
+#EXTINF:-1 tvg-chno="48" tvg-logo="LOGO_URL",Viasat 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/viasat2/index.m3u8
+
+#EXTINF:-1 tvg-chno="49" tvg-logo="LOGO_URL",Viasat Film HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/viasat_film/index.m3u8
+
+#EXTINF:-1 tvg-chno="50" tvg-logo="LOGO_URL",RTL Gold
+#EXTVLCOPT:network-caching=1000
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="51" tvg-logo="LOGO_URL",Sorozat+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="52" tvg-logo="LOGO_URL",Moziverzum HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/moziverzum/index.m3u8
+
+#EXTINF:-1 tvg-chno="53" tvg-logo="LOGO_URL",FilmBox+ Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+
+#EXTINF:-1 tvg-chno="54" tvg-logo="LOGO_URL",FilmBox+ One HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="55" tvg-logo="LOGO_URL",FilmBox+ Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="LOGO_URL",FilmBox+ Emotion HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-logo="LOGO_URL",Moziklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/moziklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-chno="58" tvg-logo="LOGO_URL",Sorozatklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/sorozatklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-chno="59" tvg-logo="LOGO_URL",EWTN
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="LOGO_URL",Euronews HU HD
+#EXTVLCOPT:network-caching=1000
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
