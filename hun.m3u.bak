@@ -1,47 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/1_M1.png",M1 HD
+#EXTINF:-1 tvg-chno="1" tvg-logo="LOGO_URL",M1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/2_M2.png",M2 HD
+#EXTINF:-1 tvg-chno="2" tvg-logo="LOGO_URL",M2 HD
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/m2_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/3_Duna_TV.png",Duna TV HD
+#EXTINF:-1 tvg-chno="3" tvg-logo="LOGO_URL",Duna TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/duna_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/4_M4_Sport.png",M4 Sport HD
+#EXTINF:-1 tvg-chno="4" tvg-logo="LOGO_URL",M4 Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/m4_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/5_Duna_World.png",Duna World/M4 Sport+ HD
+#EXTINF:-1 tvg-chno="5" tvg-logo="LOGO_URL",Duna World/M4 Sport+ HD
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/duna_world_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/6_M5.png",M5 HD
+#EXTINF:-1 tvg-chno="6" tvg-logo="LOGO_URL",M5 HD
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/7_RTL.png",RTL HD
+#EXTINF:-1 tvg-chno="7" tvg-logo="LOGO_URL",RTL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/8_TV2.png",TV2 HD
+#EXTINF:-1 tvg-chno="8" tvg-logo="LOGO_URL",TV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/9_Hir_TV.png",Hír TV HD
+#EXTINF:-1 tvg-chno="9" tvg-logo="LOGO_URL",Hír TV HD
 #EXTVLCOPT:network-caching=1000
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/10_ATV.png",ATV HD
+#EXTINF:-1 tvg-chno="10" tvg-logo="LOGO_URL",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
