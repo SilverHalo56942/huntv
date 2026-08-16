@@ -1,293 +1,293 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz"
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/1_M1.png",M1 HD
+#EXTINF:-1 tvg-id="m1.HD.hu" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/1_M1.png",M1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/2_M2.png",M2 HD
+#EXTINF:-1 tvg-id="m2.HD.hu" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/2_M2.png",M2 HD
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/m2_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/3_Duna_TV.png",Duna TV HD
+#EXTINF:-1 tvg-id="Duna.TV.hu" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/3_Duna_TV.png",Duna TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/duna_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/4_M4_Sport.png",M4 Sport HD
+#EXTINF:-1 tvg-id="" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/4_M4_Sport.png",M4 Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/m4_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/5_Duna_World.png",Duna World/M4 Sport+ HD
+#EXTINF:-1 tvg-id="m4.hu" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/5_Duna_World.png",Duna World/M4 Sport+ HD
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/duna_world_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/6_M5.png",M5 HD
+#EXTINF:-1 tvg-id="m5.hu" tvg-chno="6" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/6_M5.png",M5 HD
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/7_RTL.png",RTL HD
+#EXTINF:-1 tvg-id="RTL.hu" tvg-chno="7" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/7_RTL.png",RTL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/8_TV2.png",TV2 HD
+#EXTINF:-1 tvg-id="TV2.hu" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/8_TV2.png",TV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/9_Hir_TV.png",Hír TV HD
+#EXTINF:-1 tvg-id="HIR.TV.hu" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/9_Hir_TV.png",Hír TV HD
 #EXTVLCOPT:network-caching=1000
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/10_ATV.png",ATV HD
+#EXTINF:-1 tvg-id="ATV.hu" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/10_ATV.png",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/11_MoziP.png",Mozi+ HD
+#EXTINF:-1 tvg-id="Mozi+.hu" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/11_MoziP.png",Mozi+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/mozi_plusz/index.m3u8
 
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/12_TV4.png",TV4
+#EXTINF:-1 tvg-id="TV4.hu" tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/12_TV4.png",TV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/13_FilmP.png",Film+ HD
+#EXTINF:-1 tvg-id="Film+.hu" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/13_FilmP.png",Film+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
 
-#EXTINF:-1 tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/14_Viasat3.png",Viasat 3 HD
+#EXTINF:-1 tvg-id="Viasat.3.hu" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/14_Viasat3.png",Viasat 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/viasat3/index.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/15_Viasat6.png",Viasat 6 HD
+#EXTINF:-1 tvg-id="Viasat.6.hu" tvg-chno="15" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/15_Viasat6.png",Viasat 6 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/viasat6/index.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/16_Prime.png",Prime HD
+#EXTINF:-1 tvg-id="Prime.hu" tvg-chno="16" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/16_Prime.png",Prime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/prime/index.m3u8
 
-#EXTINF:-1 tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/17_Story4.png",Story4
+#EXTINF:-1 tvg-id="Story4.hu" tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/17_Story4.png",Story4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/18_RTL_Ketto.png",RTL Kettő HD
+#EXTINF:-1 tvg-id="RTL.KETTŐ.hu" tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/18_RTL_Ketto.png",RTL Kettő HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/19_Super_TV2.png",Super TV2
+#EXTINF:-1 tvg-id="Super.TV2.hu" tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/19_Super_TV2.png",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/20_RTL_Harom.png",RTL Három HD
+#EXTINF:-1 tvg-id="RTL.HÁROM.hu" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/20_RTL_Harom.png",RTL Három HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/21_Spektrum_Home.png",Spektrum Home HD
+#EXTINF:-1 tvg-id="Spektrum.Home.hu" tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/21_Spektrum_Home.png",Spektrum Home HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/22_Muzsika_TV.png",Muzsika TV
+#EXTINF:-1 tvg-id="Muzsika.TV.hu" tvg-chno="22" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/22_Muzsika_TV.png",Muzsika TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="23" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/23_Slager_TV.png",Sláger TV
+#EXTINF:-1 tvg-id="Sláger.TV.hu" tvg-chno="23" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/23_Slager_TV.png",Sláger TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/24_Oxygen_Music.png",Oxygen Music HD
+#EXTINF:-1 tvg-id="" tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/24_Oxygen_Music.png",Oxygen Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
 
-#EXTINF:-1 tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/25_KroneHIT_TV.png",KroneHIT TV
+#EXTINF:-1 tvg-id="" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/25_KroneHIT_TV.png",KroneHIT TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/26_Spiler1.png",Spíler1 HD
+#EXTINF:-1 tvg-id="" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/26_Spiler1.png",Spíler1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/spiler1/index.m3u8
 
-#EXTINF:-1 tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/27_Spiler2.png",Spíler2 HD
+#EXTINF:-1 tvg-id="" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/27_Spiler2.png",Spíler2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/spiler2/index.m3u8
 
-#EXTINF:-1 tvg-chno="28" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/28_Disney_Channel.png",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-chno="28" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/28_Disney_Channel.png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/29_Nicktoons.png",Nicktoons SD
+#EXTINF:-1 tvg-id="" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/29_Nicktoons.png",Nicktoons SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 
-#EXTINF:-1 tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/30_Galaxy4.png",Galaxy4
+#EXTINF:-1 tvg-id="" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/30_Galaxy4.png",Galaxy4
 #EXTVLCOPT:network-caching=1000
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="31" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/31_TV2_Comedy.png",TV2 Comedy
+#EXTINF:-1 tvg-id="" tvg-chno="31" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/31_TV2_Comedy.png",TV2 Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/tv2_comedy/index.m3u8
 
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/32_Film4.png",Film4
+#EXTINF:-1 tvg-id="" tvg-chno="32" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/32_Film4.png",Film4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/film4_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/33_National_Geographic.png",National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-chno="33" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/33_National_Geographic.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/ngc_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/34_National_Geographic_Wild.png",National Geographic Wild HD
+#EXTINF:-1 tvg-id="" tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/34_National_Geographic_Wild.png",National Geographic Wild HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/ngw_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="35" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/35_Spektrum.png",Spektrum HD
+#EXTINF:-1 tvg-id="" tvg-chno="35" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/35_Spektrum.png",Spektrum HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/spektrum_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/36_TV2_Sef.png",TV2 Séf
+#EXTINF:-1 tvg-id="" tvg-chno="36" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/36_TV2_Sef.png",TV2 Séf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/37_Izaura_TV.png",Izaura TV HD
+#EXTINF:-1 tvg-id="" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/37_Izaura_TV.png",Izaura TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/izaura/index.m3u8
 
-#EXTINF:-1 tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/38_RTL_Otthon.png",RTL Otthon HD
+#EXTINF:-1 tvg-id="" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/38_RTL_Otthon.png",RTL Otthon HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/39_History.png",History HD
+#EXTINF:-1 tvg-id="" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/39_History.png",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/history_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/40_Zenebutik.png",Zenebutik
+#EXTINF:-1 tvg-id="" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/40_Zenebutik.png",Zenebutik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/zenebutik/index.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/41_FEM3.png",FEM3
+#EXTINF:-1 tvg-id="" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/41_FEM3.png",FEM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/42_ATV_Extra.png",ATV Extra HD
+#EXTINF:-1 tvg-id="" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/42_ATV_Extra.png",ATV Extra HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/43_Dikh_TV.png",Dikh TV
+#EXTINF:-1 tvg-id="" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/43_Dikh_TV.png",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/dikh/index.m3u8
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/44_Nick_Jr.png",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/44_Nick_Jr.png",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/45_TV2_Kids.png",TV2 Kids
+#EXTINF:-1 tvg-id="" tvg-chno="45" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/45_TV2_Kids.png",TV2 Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/tv2_kids/index.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/46_Kolyokklub.png",Kölyökklub HD
+#EXTINF:-1 tvg-id="" tvg-chno="46" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/46_Kolyokklub.png",Kölyökklub HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/kolyokklub_atk/index.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/47_Jocky_TV.png",Jocky TV
+#EXTINF:-1 tvg-id="" tvg-chno="47" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/47_Jocky_TV.png",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/jocky/index.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/48_Viasat2.png",Viasat 2
+#EXTINF:-1 tvg-id="" tvg-chno="48" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/48_Viasat2.png",Viasat 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/viasat2/index.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/49_Viasat_Film.png",Viasat Film HD
+#EXTINF:-1 tvg-id="" tvg-chno="49" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/49_Viasat_Film.png",Viasat Film HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/viasat_film/index.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/50_RTL_Gold.png",RTL Gold
+#EXTINF:-1 tvg-id="" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/50_RTL_Gold.png",RTL Gold
 #EXTVLCOPT:network-caching=1000
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="51" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/51_SorozatP.png",Sorozat+
+#EXTINF:-1 tvg-id="" tvg-chno="51" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/51_SorozatP.png",Sorozat+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_sorozat_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/52_Moziverzum.png",Moziverzum HD
+#EXTINF:-1 tvg-id="" tvg-chno="52" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/52_Moziverzum.png",Moziverzum HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/moziverzum/index.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/53_FilmBoxP_Hits.png",FilmBox+ Hits
+#EXTINF:-1 tvg-id="" tvg-chno="53" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/53_FilmBoxP_Hits.png",FilmBox+ Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
 
-#EXTINF:-1 tvg-chno="54" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/54_FilmBoxP_One.png",FilmBox+ One HD
+#EXTINF:-1 tvg-id="" tvg-chno="54" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/54_FilmBoxP_One.png",FilmBox+ One HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="55" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/55_FilmBoxP_Comedy.png",FilmBox+ Comedy
+#EXTINF:-1 tvg-id="" tvg-chno="55" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/55_FilmBoxP_Comedy.png",FilmBox+ Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/56_FilmBoxP_Emotion.png",FilmBox+ Emotion HD
+#EXTINF:-1 tvg-id="" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/56_FilmBoxP_Emotion.png",FilmBox+ Emotion HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/57_Moziklub.png",Moziklub
+#EXTINF:-1 tvg-id="" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/57_Moziklub.png",Moziklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/moziklub_atk/index.m3u8
 
-#EXTINF:-1 tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/58_Sorozatklub.png",Sorozatklub
+#EXTINF:-1 tvg-id="" tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/58_Sorozatklub.png",Sorozatklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/sorozatklub_atk/index.m3u8
 
-#EXTINF:-1 tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/59_EWTN.png",EWTN
+#EXTINF:-1 tvg-id="" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/59_EWTN.png",EWTN
 #EXTVLCOPT:network-caching=1000
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/60_Euronews.png",Euronews HU HD
+#EXTINF:-1 tvg-id="" tvg-chno="60" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/60_Euronews.png",Euronews HU HD
 #EXTVLCOPT:network-caching=1000
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
