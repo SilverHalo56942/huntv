@@ -39,7 +39,7 @@ http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HIR.TV.hu" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/9_Hir_TV.png",Hír TV HD
 #EXTVLCOPT:network-caching=1000
-https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
+https://video13.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.hu" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/10_ATV.png",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
