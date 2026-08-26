@@ -17,7 +17,7 @@ http://88.212.15.19/live/duna_hun/index.m3u8
 #EXTINF:-1 tvg-id="m4.hu" tvg-chno="4" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/M4_Sport.png",M4 Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 #EXTVLCOPT:network-caching=1000
-https://7nyaler.streamhostingcdn.top/stream/80/index.m3u8
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
 
 #EXTINF:-1 tvg-id="Duna.World.hu" tvg-chno="5" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Duna_World.png",Duna World/M4 Sport+ HD
 #EXTVLCOPT:network-caching=1000
@@ -176,6 +176,11 @@ http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/axn_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="AMC.hu" tvg-chno="36" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/AMC.png",AMC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/amc_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="Galaxy4.hu" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Galaxy4.png",Galaxy4
 #EXTVLCOPT:network-caching=1000
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
@@ -204,6 +209,11 @@ http://88.212.15.19/live/ngw_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/spektrum_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TV.Paprika.hu" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Spektrum.png",TV Paprika HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/parpika_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Spektrum.Home.hu" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV2_Sef.png",TV2 Séf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -259,6 +269,11 @@ http://88.212.15.19/live/tv2_kids/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="Fishing.and.Hunting.Channel.hu" tvg-chno="53" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Kolyokklub.png",The Fishing & Hunting Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/fishing_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Jocky.TV.hu" tvg-chno="54" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Jocky_TV.png",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
