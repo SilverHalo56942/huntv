@@ -210,7 +210,7 @@ http://88.212.15.19/live/ngw_hun/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/spektrum_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="TV.Paprika.hu" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Spektrum.png",TV Paprika HD
+#EXTINF:-1 tvg-id="TV.Paprika.hu" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV_Paprika.png",TV Paprika HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/parpika_hun/index.m3u8
@@ -270,7 +270,7 @@ http://88.212.15.19/live/tv2_kids/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/kolyokklub_atk/index.m3u8
 
-#EXTINF:-1 tvg-id="Fishing.and.Hunting.Channel.hu" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Kolyokklub.png",The Fishing & Hunting Channel HD
+#EXTINF:-1 tvg-id="Fishing.and.Hunting.Channel.hu" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TFH.png",The Fishing & Hunting Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/fishing_hun/index.m3u8
