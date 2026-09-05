@@ -1,50 +1,53 @@
-# 🇭🇺 Hungarian IPTV
+# 🇭🇺 Magyar IPTV
 
-A collection of Hungarian television channels in M3U playlist format.
+For the English README, click [HERE](https://github.com/SilverHalo56942/huntv/blob/main/README_en.md).
 
-The playlist contains Hungarian TV channels with channel logos and, where available, Electronic Program Guide (EPG) data.
 
-## 📺 Playlist
+Magyar televíziós csatornák gyűjteménye M3U lejátszási lista formátumban.
 
-The main playlist is:
+A lejátszási lista magyar TV-csatornákat tartalmaz csatornalogókkal, valamint ahol elérhető, elektronikus műsorújság (EPG) adatokkal.
 
-* [`hun.m3u`](hun.m3u) — Hungarian TV channels
+## 📺 Lejátszási lista
 
-### Direct link
+A fő lejátszási lista:
 
-The playlist can also be used directly from GitHub:
+* [`hun.m3u`](hun.m3u) — Magyar TV-csatornák
+
+### Közvetlen hivatkozás
+
+A lejátszási lista közvetlenül a GitHubról is használható:
 
 ```text
 https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
 ```
 
-This URL can be added directly to a compatible IPTV player.
+Ez az URL közvetlenül hozzáadható egy kompatibilis IPTV-lejátszóhoz.
 
-## 🖼️ Channel Icons
+## 🖼️ Csatornaikonok
 
-Channel logos are stored in the [`icons`](icons/) directory.
+A csatornalogók az [`icons`](icons/) könyvtárban találhatók.
 
-The icons are sourced from [Logopedia](https://logos.fandom.com/), a Fandom-hosted encyclopedia of brand and logo information.
+Az ikonok a [Logopediáról](https://logos.fandom.com/) származnak, amely a márkákkal és logókkal kapcsolatos információkat tartalmazó, Fandomon üzemeltetett enciklopédia.
 
-All trademarks, logos, and related visual assets belong to their respective owners.
+Minden védjegy, logó és kapcsolódó vizuális elem a megfelelő tulajdonos tulajdonát képezi.
 
 ## 📡 EPG
 
-A large portion of the channels includes EPG (Electronic Program Guide) data.
+A csatornák jelentős része EPG (Electronic Program Guide – elektronikus műsorújság) adatokat tartalmaz.
 
-The EPG data is provided by the Hungarian section of [EPGShare](https://epgshare01.online/).
+Az EPG-adatokat az [EPGShare](https://epgshare01.online/) magyar nyelvű részlege biztosítja.
 
-EPG availability may vary between channels and can change over time.
+Az EPG elérhetősége csatornánként eltérő lehet, és idővel változhat.
 
-## ▶️ Recommended Players
+## ▶️ Ajánlott lejátszók
 
 ### 🪟 Windows
 
-[**IPTVnator**](https://4gray.github.io/iptvnator/) is the recommended IPTV player for Windows.
+A [**IPTVnator**](https://4gray.github.io/iptvnator/) az ajánlott IPTV-lejátszó Windows rendszerhez.
 
-It supports M3U playlists and EPG data and provides a convenient interface for browsing and watching the channels.
+Támogatja az M3U lejátszási listákat és az EPG-adatokat, valamint kényelmes felületet biztosít a csatornák böngészéséhez és megtekintéséhez.
 
-Add the following playlist URL to IPTVnator:
+Add hozzá a következő lejátszási lista URL-jét az IPTVnatorhoz:
 
 ```text
 https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
@@ -52,56 +55,69 @@ https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
 
 ### 📺 Android / Android TV
 
-[**IPTV**](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) by **Alexander Sofronov** is the recommended application for Android and Android TV.
+Az [**IPTV**](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) **Alexander Sofronov** által készített ajánlott alkalmazás Android és Android TV rendszerhez.
 
-Add the following playlist URL to the application:
+Add hozzá a következő lejátszási lista URL-jét az alkalmazáshoz:
 
 ```text
 https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
 ```
 
-### Other Players
+### Egyéb lejátszók
 
-The playlist should also work with other IPTV applications and media players that support standard M3U/M3U8 playlists.
+A lejátszási listának más, szabványos M3U/M3U8 lejátszási listákat támogató IPTV-alkalmazásokkal és médialejátszókkal is működnie kell.
 
-## 🔄 Updates
+## 🔄 Frissítések
 
-The playlist may be updated periodically to:
+A lejátszási lista időszakosan frissülhet az alábbiak érdekében:
 
-* Add new channels
-* Remove unavailable channels
-* Update stream URLs
-* Update channel metadata
-* Add or update channel icons
-* Update EPG information
+* Új csatornák hozzáadása
 
-Stream availability is not guaranteed and may change without notice.
+* Nem elérhető csatornák eltávolítása
 
-## 🐛 Reporting Issues
+* Stream URL-ek frissítése
 
-If you find a broken stream, incorrect channel information, missing icon, or another issue, please [open an issue](https://github.com/SilverHalo56942/huntv/issues).
+* Csatorna-metaadatok frissítése
 
-When reporting a broken channel, please include:
+* Csatornaikonok hozzáadása vagy frissítése
 
-* Channel name
-* Approximate time the problem occurred
-* IPTV player used
-* A short description of the issue
+* EPG-információk frissítése
 
-## 🤝 Contributing
+A streamek elérhetősége nem garantált, és előzetes értesítés nélkül változhat.
 
-Contributions are welcome.
+## 🐛 Hibák bejelentése
 
-When submitting a pull request, please make sure that:
+Ha hibás streamet, helytelen csatornainformációt, hiányzó ikont vagy egyéb problémát találsz, kérjük, [nyiss egy hibajegyet](https://github.com/SilverHalo56942/huntv/issues).
 
-* The M3U syntax is valid.
-* The stream URL is publicly accessible.
-* Channel information is accurate.
-* Existing formatting and naming conventions are followed.
-* Icons are placed in the `icons` directory with the name following the naming of the others.
-* EPG information is correctly referenced where applicable.
+Hibás csatorna bejelentésekor kérjük, add meg:
 
-## 📁 Repository Structure
+* A csatorna nevét
+
+* A probléma hozzávetőleges időpontját
+
+* A használt IPTV-lejátszót
+
+* A probléma rövid leírását
+
+## 🤝 Közreműködés
+
+A közreműködéseket szívesen fogadjuk.
+
+Pull request beküldésekor kérjük, győződj meg arról, hogy:
+
+* Az M3U szintaxisa érvényes.
+
+* A stream URL-je nyilvánosan elérhető.
+
+* A csatornainformációk pontosak.
+
+* A meglévő formázási és elnevezési konvenciók követve vannak.
+
+* Az ikonok az `icons` könyvtárba kerülnek, az elnevezésük pedig követi a többi ikon elnevezését.
+
+* Az EPG-információk, ahol alkalmazható, megfelelően vannak hivatkozva.
+
+## 📁 A repository felépítése
 
 ```text
 huntv/
@@ -112,18 +128,18 @@ huntv/
 └── README.md
 ```
 
-## ⚖️ Disclaimer
+## ⚖️ Jogi nyilatkozat
 
-This repository is intended for informational and technical purposes.
+Ez a repository tájékoztatási és technikai célokat szolgál.
 
-The repository itself does not provide television subscriptions or operate the external streaming servers referenced by the playlist.
+Maga a repository nem biztosít televíziós előfizetéseket, és nem üzemelteti a lejátszási listában hivatkozott külső streaming szervereket.
 
-The availability and legality of individual streams may depend on their respective providers and jurisdictions. Users are responsible for ensuring that their use of the streams complies with applicable laws and the terms of the respective content providers.
+Az egyes streamek elérhetősége és jogszerűsége a megfelelő szolgáltatóktól és joghatóságoktól függhet. A felhasználók felelősek azért, hogy a streamek használata megfeleljen a vonatkozó jogszabályoknak és az adott tartalomszolgáltatók feltételeinek.
 
-Channel names, logos, program information, and other third-party materials remain the property of their respective owners.
+A csatornanevek, logók, műsorinformációk és egyéb harmadik féltől származó anyagok a megfelelő tulajdonosok tulajdonát képezik.
 
-If you are a rights holder and believe that a link or other material in this repository infringes your rights, please contact the repository maintainer.
+Ha jogtulajdonos vagy, és úgy véled, hogy a repositoryban található valamely hivatkozás vagy egyéb anyag sérti a jogaidat, kérjük, vedd fel a kapcsolatot a repository karbantartójával.
 
 ---
 
-**Maintained by [@SilverHalo56942](https://github.com/SilverHalo56942)**
+**Karbantartó: [@SilverHalo56942](https://github.com/SilverHalo56942)**
