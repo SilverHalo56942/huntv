@@ -141,6 +141,11 @@ A csatornanevek, logók, műsorinformációk és egyéb harmadik féltől szárm
 
 Ha jogtulajdonos vagy, és úgy véled, hogy a repositoryban található valamely hivatkozás vagy egyéb anyag sérti a jogaidat, kérjük, vedd fel a kapcsolatot a repository karbantartójával.
 
+A csatornák különböző forrásokból származnak, ezek közé tartoznak:
+
+* [iptv-org](https://github.com/iptv-org/iptv/blob/master/streams/hu.m3u) magyar szekciója
+* [iptv-web](https://iptv-web.app/HU/) magyar szekciója
+
 ---
 
 **Karbantartó: [@SilverHalo56942](https://github.com/SilverHalo56942)**

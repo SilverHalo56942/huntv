@@ -124,6 +124,11 @@ Channel names, logos, program information, and other third-party materials remai
 
 If you are a rights holder and believe that a link or other material in this repository infringes your rights, please contact the repository maintainer.
 
+The channels come from various sources, including:
+
+* The Hungarian section of [iptv-org](https://github.com/iptv-org/iptv/blob/master/streams/hu.m3u)
+* The Hungarian section of [iptv-web](https://iptv-web.app/HU/)
+
 ---
 
 **Maintained by [@SilverHalo56942](https://github.com/SilverHalo56942)**
