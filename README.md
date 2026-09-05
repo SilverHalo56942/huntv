@@ -2,6 +2,7 @@
 
 For the English README, click [HERE](https://github.com/SilverHalo56942/huntv/blob/main/README_en.md).
 
+---
 
 Magyar televíziós csatornák gyűjteménye M3U lejátszási lista formátumban.
 
