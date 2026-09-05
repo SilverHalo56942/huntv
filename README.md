@@ -1,134 +1,129 @@
 # 🇭🇺 Hungarian IPTV
 
-A collection of Hungarian television channels available through publicly accessible IPTV streams, provided in M3U playlist format.
+A collection of Hungarian television channels in M3U playlist format.
 
-## 📺 Features
+The playlist contains Hungarian TV channels with channel logos and, where available, Electronic Program Guide (EPG) data.
 
-* 🇭🇺 Hungarian TV channels
-* 📄 M3U playlist format
-* 🔄 Regularly updated channel list
-* ▶️ Compatible with most IPTV players supporting M3U/M3U8 playlists
-* 🖥️ Usable on Windows, Linux, macOS, Android, and other supported platforms
+## 📺 Playlist
 
-## 📋 Channel List
+The main playlist is:
 
-The complete channel list is available in the playlist:
+* [`hun.m3u`](hun.m3u) — Hungarian TV channels
 
-* [`iptv.m3u`](iptv.m3u)
+### Direct link
 
-### Categories
-
-* Public service
-* General entertainment
-* News
-* Sports
-* Movies & series
-* Music
-* Children's channels
-* Other Hungarian channels
-
-> The available channels may change over time depending on stream availability.
-
-## ▶️ Usage
-
-### Using the M3U file
-
-Download [`iptv.m3u`](iptv.m3u) and open it with an IPTV player that supports M3U playlists.
-
-Alternatively, you can use the raw playlist URL:
+The playlist can also be used directly from GitHub:
 
 ```text
-https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/iptv.m3u
+https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
 ```
 
-### Supported players
+This URL can be added directly to a compatible IPTV player.
 
-The playlist should work with most applications supporting standard M3U/M3U8 playlists, including:
+## 🖼️ Channel Icons
 
-* VLC
-* Kodi
-* IPTV Smarters
-* TiviMate
-* Other compatible IPTV players
+Channel logos are stored in the [`icons`](icons/) directory.
+
+The icons are sourced from [Logopedia](https://logos.fandom.com/), a Fandom-hosted encyclopedia of brand and logo information.
+
+All trademarks, logos, and related visual assets belong to their respective owners.
+
+## 📡 EPG
+
+A large portion of the channels includes EPG (Electronic Program Guide) data.
+
+The EPG data is provided by the Hungarian section of [EPGShare](https://epgshare01.online/).
+
+EPG availability may vary between channels and can change over time.
+
+## ▶️ Recommended Players
+
+### 🪟 Windows
+
+[**IPTVnator**](https://4gray.github.io/iptvnator/) is the recommended IPTV player for Windows.
+
+It supports M3U playlists and EPG data and provides a convenient interface for browsing and watching the channels.
+
+Add the following playlist URL to IPTVnator:
+
+```text
+https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
+```
+
+### 📺 Android / Android TV
+
+[**IPTV**](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv) by **Alexander Sofronov** is the recommended application for Android and Android TV.
+
+Add the following playlist URL to the application:
+
+```text
+https://raw.githubusercontent.com/SilverHalo56942/huntv/main/hun.m3u
+```
+
+### Other Players
+
+The playlist should also work with other IPTV applications and media players that support standard M3U/M3U8 playlists.
 
 ## 🔄 Updates
 
-The playlist is maintained and updated periodically.
+The playlist may be updated periodically to:
 
-Updates may include:
+* Add new channels
+* Remove unavailable channels
+* Update stream URLs
+* Update channel metadata
+* Add or update channel icons
+* Update EPG information
 
-* Adding new channels
-* Removing unavailable streams
-* Updating stream URLs
-* Updating channel metadata
-* Fixing incorrect or outdated entries
+Stream availability is not guaranteed and may change without notice.
 
-Please note that a working stream may become unavailable at any time.
+## 🐛 Reporting Issues
 
-## 🔎 Sources
+If you find a broken stream, incorrect channel information, missing icon, or another issue, please [open an issue](https://github.com/SilverHalo56942/huntv/issues).
 
-The playlist contains links to externally hosted streams.
-
-This repository does **not** host or redistribute the actual video streams unless explicitly stated otherwise. Stream availability and content are controlled by the respective external servers.
-
-Where applicable, source information is included in the playlist or repository documentation.
-
-## ⚖️ Disclaimer
-
-This project is provided for informational and technical purposes only.
-
-The repository does not provide television subscriptions, bypass paywalls, or provide access credentials to subscription-based services.
-
-Users are responsible for ensuring that their use of any stream complies with applicable laws, regulations, and the terms of the respective content provider.
-
-All trademarks, channel names, logos, and copyrighted content belong to their respective owners.
-
-If you are the rights holder of content linked from this repository and believe that a link should be removed, please open an issue or contact the repository maintainer.
-
-## 🐛 Issues
-
-If you find a broken or incorrectly listed channel, please open an issue.
-
-When reporting a problem, please include:
+When reporting a broken channel, please include:
 
 * Channel name
-* Date and approximate time
+* Approximate time the problem occurred
 * IPTV player used
-* Description of the problem
-* Whether the stream works in another player, if tested
-
-Please **do not upload copyrighted recordings or other copyrighted media** to an issue.
+* A short description of the issue
 
 ## 🤝 Contributing
 
-Pull requests and issue reports are welcome.
+Contributions are welcome.
 
-Before submitting a pull request:
+When submitting a pull request, please make sure that:
 
-1. Make sure the stream is publicly accessible.
-2. Verify that the URL works.
-3. Use the existing playlist format.
-4. Add the correct channel name and metadata.
-5. Avoid adding private, authenticated, or personal stream URLs.
+* The M3U syntax is valid.
+* The stream URL is publicly accessible.
+* Channel information is accurate.
+* Existing formatting and naming conventions are followed.
+* Icons are placed in the `icons` directory with the name following the naming of the others.
+* EPG information is correctly referenced where applicable.
 
 ## 📁 Repository Structure
 
 ```text
-.
-├── iptv.m3u
-├── README.md
-├── LICENSE
-└── ...
+huntv/
+├── hun.m3u
+├── icons/
+│   ├── ...
+│   └── ...
+└── README.md
 ```
 
-Additional files may be added as the project evolves.
+## ⚖️ Disclaimer
 
-## 📄 License
+This repository is intended for informational and technical purposes.
 
-The source code, scripts, configuration files, and other original material created for this repository are licensed under the terms specified in [`LICENSE`](LICENSE).
+The repository itself does not provide television subscriptions or operate the external streaming servers referenced by the playlist.
 
-Third-party content, trademarks, channel names, logos, streams, and other externally provided material remain the property of their respective owners.
+The availability and legality of individual streams may depend on their respective providers and jurisdictions. Users are responsible for ensuring that their use of the streams complies with applicable laws and the terms of the respective content providers.
+
+Channel names, logos, program information, and other third-party materials remain the property of their respective owners.
+
+If you are a rights holder and believe that a link or other material in this repository infringes your rights, please contact the repository maintainer.
 
 ---
 
-**Maintained by [@USERNAME](https://github.com/USERNAME)**
+**Maintained by [@SilverHalo56942](https://github.com/SilverHalo56942)**
