@@ -38,9 +38,9 @@ EPG availability may vary between channels and can change over time.
 
 ## ▶️ Recommended Players
 
-### 🪟 Windows
+### 🪟 Windows / 🐧 Linux / 🍎 macOS
 
-[**IPTVnator**](https://4gray.github.io/iptvnator/) is the recommended IPTV player for Windows.
+[**IPTVnator**](https://4gray.github.io/iptvnator/) is the recommended IPTV player for Windows, Linux and macOS.
 
 It supports M3U playlists and EPG data and provides a convenient interface for browsing and watching the channels.
 
