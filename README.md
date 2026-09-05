@@ -42,9 +42,9 @@ Az EPG elérhetősége csatornánként eltérő lehet, és idővel változhat.
 
 ## ▶️ Ajánlott lejátszók
 
-### 🪟 Windows
+### 🪟 Windows / 🐧 Linux / 🍎 macOS
 
-A [**IPTVnator**](https://4gray.github.io/iptvnator/) az ajánlott IPTV-lejátszó Windows rendszerhez.
+A [**IPTVnator**](https://4gray.github.io/iptvnator/) az ajánlott IPTV-lejátszó Windows, Linux és macOS rendszerhez.
 
 Támogatja az M3U lejátszási listákat és az EPG-adatokat, valamint kényelmes felületet biztosít a csatornák böngészéséhez és megtekintéséhez.
 
