@@ -285,7 +285,7 @@ http://88.212.15.17/live/jocky/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/viasat2/index.m3u8
 
-#EXTINF:-1 tvg-id="Viasat.Film.hu" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Viasat_Film.png",Viasat Film HD
+#EXTINF:-1 tvg-id="Viasat.Film.hu" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/AXN_Crime.png",AXN Crime HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/viasat_film/index.m3u8
