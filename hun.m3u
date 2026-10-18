@@ -151,6 +151,11 @@ http://88.212.15.17/live/sport1_hun/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/sport2_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="Aréna4.hu" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Arena4.png",Arena4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/arena4/index.m3u8
+
 #EXTINF:-1 tvg-id="Spíler1.TV.hu" tvg-chno="31" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Spiler1.png",Spíler1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
