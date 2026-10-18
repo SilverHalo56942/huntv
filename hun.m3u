@@ -205,6 +205,11 @@ http://88.212.15.17/live/tv2_comedy/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/film4_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="ID:.Investigation.Discovery.hu" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/ID.png",Investigation Discovery HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/id_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="National.Geographic.HD.hu" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/National_Geographic.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
