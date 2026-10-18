@@ -136,6 +136,11 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic_5000.m3u8
 #EXTVLCOPT:network-caching=1000
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 
+#EXTINF:-1 tvg-id="Match4.hu" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Match4.png",Match4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://141.94.193.53:80/Match4_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Sport1.hu" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Sport1.png",Sport1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -274,6 +279,11 @@ http://88.212.15.17/live/kolyokklub_atk/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Max4.hu" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Max4.png",Max4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://141.94.193.53:80/MAX4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Jocky.TV.hu" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Jocky_TV.png",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
