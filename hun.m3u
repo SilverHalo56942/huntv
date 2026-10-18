@@ -440,4 +440,4 @@ https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.hu" tvg-chno="90" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Euronews.png",Euronews HU HD
 #EXTVLCOPT:network-caching=1000
-https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/euronews-hu-avc1_3300000=24-mp4a_143200_hun=2.m3u8
