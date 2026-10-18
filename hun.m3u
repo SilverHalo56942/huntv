@@ -329,7 +329,7 @@ http://88.212.15.17/live/moziverzum/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/fb_premium_hungary/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/FilmBoxP_One.png",FilmBox+ One HD
+#EXTINF:-1 tvg-id="" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/FilmBoxP_LoveCrime.png",FilmBox+ Love&Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
