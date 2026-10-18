@@ -171,6 +171,11 @@ http://88.212.15.17/live/spiler2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/disney_channel_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-chno="33" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/JimJam.png",JimJam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/jim_jam_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nickelodeon.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -205,6 +210,16 @@ http://88.212.15.17/live/tv2_comedy/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/film4_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="Discovery.Channel.hu" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Discovery_Channel.png",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/film4_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.hu" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TLC.png",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/film4_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="ID:.Investigation.Discovery.hu" tvg-chno="40" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/ID.png",Investigation Discovery HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -225,12 +240,22 @@ http://88.212.15.17/live/ngw_hun/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/spektrum_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="Animal.Planet.HD.hu" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Animal_Planet.png",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/animal_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="TV.Paprika.hu" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV_Paprika.png",TV Paprika HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/parpika_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="Spektrum.Home.hu" tvg-chno="45" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV2_Sef.png",TV2 Séf
+#EXTINF:-1 tvg-id="HGTV.hu" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/HGTV.png",HGTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/hgtv_hun/index.m3u
+
+#EXTINF:-1 tvg-id="TV2.Séf.hu" tvg-chno="45" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV2_Sef.png",TV2 Séf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/test_lichi_tv_atk_tv/playlist.m3u8
@@ -244,6 +269,16 @@ http://88.212.15.17/live/izaura/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/rtl_otthon_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.hu" tvg-chno="47" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Food_Network.png",Food Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/fn_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="Travel.Channel.HD.hu" tvg-chno="47" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Travel_Channel.png",Travel Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.17/live/travel_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="History.Channel.hu" tvg-chno="48" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/History.png",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -329,7 +364,7 @@ http://88.212.15.17/live/moziverzum/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/fb_premium_hungary/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/FilmBoxP_LoveCrime.png",FilmBox+ Love&Crime
+#EXTINF:-1 tvg-id="FilmBox.Stars.hu" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/FilmBoxP_LoveCrime.png",FilmBox+ Love&Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
