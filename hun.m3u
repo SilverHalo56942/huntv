@@ -47,7 +47,7 @@ http://141.94.193.53/ATV_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://141.94.193.53/Mozi+_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="TV4.hu" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV4.png",TV4
+#EXTINF:-1 tvg-id="TV4.hu" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV4.png",TV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://141.94.193.53/TV4_HD/index.m3u8
@@ -97,7 +97,7 @@ http://141.94.193.53/Galaxy4_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://141.94.193.53/Cool_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="Film4.hu" tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Film4.png",Film4
+#EXTINF:-1 tvg-id="Film4.hu" tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Film4.png",Film4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://141.94.193.53/Film4_HD/index.m3u8
