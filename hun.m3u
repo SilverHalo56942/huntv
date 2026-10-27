@@ -80,10 +80,10 @@ http://88.212.7.14/live/viasat6/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/prime/index.m3u8
 
-#EXTINF:-1 tvg-id="Story4.hu" tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Story4.png",Story4
+#EXTINF:-1 tvg-id="Story4.hu" tvg-chno="17" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Story4.png",Story4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8
+http://141.94.193.53/Story4_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="RTL.KETTŐ.hu" tvg-chno="18" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/RTL_Ketto.png",RTL Kettő HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
