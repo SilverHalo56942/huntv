@@ -200,12 +200,12 @@ http://88.212.7.14/live/disney_channel_hun/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/jim_jam_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nickelodeon.png",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nickelodeon.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.hu" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nicktoons.png",Nicktoons SD
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nicktoons.png",Nicktoons SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/nicktoons_hungary/index.m3u8
@@ -340,7 +340,7 @@ http://88.212.7.14/live/test_atv_spirit/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/dikh/index.m3u8
 
-#EXTINF:-1 tvg-id="Nick.Jr..hu" tvg-chno="69" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nick_Jr.png",Nick Jr.
+#EXTINF:-1 tvg-id="Nick.Jr.ro" tvg-chno="69" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Nick_Jr.png",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/nick_junior_hun/index.m3u8
