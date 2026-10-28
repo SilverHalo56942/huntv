@@ -90,10 +90,10 @@ http://141.94.193.53/Story4_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Super.TV2.hu" tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Super_TV2.png",Super TV2
+#EXTINF:-1 tvg-id="Super.TV2.hu" tvg-chno="19" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Super_TV2.png",Super TV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+http://141.94.193.53/SuperTV2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Film.Café.hu" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Film_Cafe.png",Film Café HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
