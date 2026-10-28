@@ -100,6 +100,11 @@ http://141.94.193.53/SuperTV2_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/film_cafe/index.m3u8
 
+#EXTINF:-1 tvg-id="LifeTv.hu" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Life_TV.png",Life TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.7.14/live/lifetv/index.m3u8
+
 #EXTINF:-1 tvg-id="OzoneTv.hu" tvg-chno="21" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/OzoneTV.png",OzoneTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -179,6 +184,11 @@ http://88.212.7.14/live/spiler1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/spiler2/index.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.hu" tvg-chno="36" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Minimax.png",Minimax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.7.14/live/minimax_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.hu" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Disney_Channel.png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
