@@ -280,6 +280,11 @@ http://88.212.7.14/live/spektrum_hun/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/animal_hun/index.m3u8
 
+#EXTINF:-1 tvg-id="BBC.Earth.hu" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Animal_Planet.png",BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://88.212.7.14/live/bbce_hun/index.m3u8
+
 #EXTINF:-1 tvg-id="TV.Paprika.hu" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/TV_Paprika.png",TV Paprika HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
