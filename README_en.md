@@ -128,6 +128,7 @@ The channels come from various sources, including:
 
 * The Hungarian section of [iptv-org](https://github.com/iptv-org/iptv/blob/master/streams/hu.m3u)
 * The Hungarian section of [iptv-web](https://iptv-web.app/HU/)
+* The Hungarian section of [Free-TV/IPTV](https://github.com/Free-TV/IPTV/blob/master/lists/hungary.md)
 
 ---
 

@@ -145,6 +145,7 @@ A csatornák különböző forrásokból származnak, ezek közé tartoznak:
 
 * [iptv-org](https://github.com/iptv-org/iptv/blob/master/streams/hu.m3u) magyar szekciója
 * [iptv-web](https://iptv-web.app/HU/) magyar szekciója
+* [Free-TV/IPTV](https://github.com/Free-TV/IPTV/blob/master/lists/hungary.md) magyar szekciója
 
 ---
 
