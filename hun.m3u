@@ -165,7 +165,7 @@ http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://88.212.7.14/live/sport1_hun/index.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport.HD.hu" tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Eurosport_1.png",Eurosport_1 HD
+#EXTINF:-1 tvg-id="Eurosport.HD.hu" tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/SilverHalo56942/huntv/refs/heads/main/icons/Eurosport_1.png",Eurosport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 http://141.94.193.53/Eurosport_1_HD/index.m3u8
